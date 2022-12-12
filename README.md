@@ -7,7 +7,7 @@
 ## Description:
 
 Ballchasing is an API Wrapper for ballchasing.com.
-The purpose of ballchasing is to provide functionality out of the gate so you can get on with coding what really matters.
+The purpose of ballchasing is to provide functionality out of the gate, so you can get on with coding what really matters.
 
 ## Planned Features:
 
@@ -23,5 +23,5 @@ The purpose of ballchasing is to provide functionality out of the gate so you ca
 
 ## Contributions/Feedback:
 Contributions are welcomed! If you have any additional features you would like implemented or have any
-feedback/ questions please feel free to join our github repo discussion board 
+feedback/ questions please feel free to join our GitHub repo discussion board 
 <https://github.com/DavidAChris/ballchasing/discussions>
