@@ -25,3 +25,5 @@ The purpose of ballchasing is to provide functionality out of the gate, so you c
 Contributions are welcomed! If you have any additional features you would like implemented or have any
 feedback/ questions please feel free to join our GitHub repo discussion board 
 <https://github.com/DavidAChris/ballchasing/discussions>
+
+"Dummy Commit"
